@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jorge Augusto Flores Meert, tenho 20 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Engenharia de Software na FIAP em Porto Alegre. Sempre gostei muito de tecnologia, desde pequeno sempre muito curioso quando o assunto é técnologia. 
+Me chamo Jorge Augusto Flores Meert, tenho 20 anos e sou natural do Rio Grande do Sul. Atualmente, curso Engenharia de Software na FIAP (Porto Alegre). Sou entusiasta da tecnologia desde a infância e movido pela curiosidade de entender como as coisas funcionam.
 
 
 ---
