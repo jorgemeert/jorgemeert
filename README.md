@@ -9,7 +9,7 @@
 Sou natural do Rio Grande do Sul e curso **Engenharia de Software na FIAP** (Porto Alegre).  
 Entusiasta de tecnologia desde cedo, movido pela curiosidade de entender como as coisas funcionam.
 
-Atualmente explorando o mundo do **desenvolvimento web** e **Python**, sempre buscando evoluir através de projetos práticos e estudo contínuo.
+Com foco em me tornar um **desenvolvedor Full Stack completo**, construindo base sólida tanto no front-end quanto no back-end através de projetos práticos e estudo constante.
 
 <br clear="right"/>
 
@@ -31,8 +31,8 @@ Atualmente explorando o mundo do **desenvolvimento web** e **Python**, sempre bu
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jorgemeert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemeert&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jorgemeert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemeert&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="left">
@@ -52,4 +52,3 @@ Atualmente explorando o mundo do **desenvolvimento web** e **Python**, sempre bu
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jorgemeert&color=blue&style=flat-square&label=Visitas+no+perfil" />
 </p>
-
