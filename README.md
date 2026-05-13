@@ -4,7 +4,7 @@
 
 -----
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+<img align="right" src="https://media3.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="280" alt="coding gif" />
 
 Sou natural do Rio Grande do Sul e curso **Engenharia de Software na FIAP** (Porto Alegre).  
 Entusiasta de tecnologia desde cedo, movido pela curiosidade de entender como as coisas funcionam.
