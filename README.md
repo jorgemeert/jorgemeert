@@ -2,6 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
+🌐 **Portfólio:** [Acesse meu portfólio](https://portifolio-pi-henna.vercel.app/)
+
 -----
 
 <img align="right" src="https://media3.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="280" alt="coding gif" />
